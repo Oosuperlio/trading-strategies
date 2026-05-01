@@ -1,0 +1,25 @@
+# Data & Analysis
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter
+jupyter
+ipykernel
+
+# Finance / Data Sources
+yfinance
+akshare
+fredapi
+
+# Backtesting
+backtrader
+vectorbt
+
+# Optional: ML
+scikit-learn
